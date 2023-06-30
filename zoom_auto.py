@@ -1,7 +1,6 @@
 import schedule as sc
 from time import sleep
 import webbrowser
-from pywinauto import Desktop
 from syori import aurugori,datascience
 import streamlit as st
 def data_zoom(time):
