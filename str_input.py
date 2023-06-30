@@ -7,7 +7,7 @@ st.set_page_config(
     initial_sidebar_state="auto", 
     menu_items={
         'Get Help': 'https://www.google.com',
-        'Report a bug': "https://www.google.com",
+        'Report a bug': "https://www.google.com"
     }
 )
 st.title("on-line授業自動入室予約システム")
