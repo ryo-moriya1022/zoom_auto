@@ -1,0 +1,4 @@
+streamlit
+pywinauto
+time
+schedule
